@@ -40,7 +40,10 @@
                 "memberTypes":"Premium member",
                 "images":"/static/personImages/profile1.jpg"
             }, 
-            "items":[]
+            "items":[
+                {"id":8,"name":"Logitech 101 headphone","desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid quidem nemo incidunt veniam rerum saepe.","type":"headphone","brand":"Logitech","stock":"8","weight":"1","price":2700,"images":"/static/productImages/8.jpg"},
+                {"id":9,"name":"Mi Band 3","desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid quidem nemo incidunt veniam rerum saepe.","type":"watch","brand":"MI","stock":"7","weight":"1","price":2400,"images":"/static/productImages/9.jpg"}
+            ]
         }
     ]
 }
